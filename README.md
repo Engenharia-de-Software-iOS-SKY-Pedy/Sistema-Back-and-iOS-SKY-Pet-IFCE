@@ -55,6 +55,7 @@ xibir informações dos pets.
 
 ##  👤| Telas de perfis 
 
+![Captura de tela 2025-01-06 131838](https://github.com/user-attachments/assets/c2bc7f94-b94a-4f65-8550-35f8ee1714bf)
 
 
  🔗| link do Prótotipo de Alta qualidade no Figma
