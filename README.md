@@ -52,7 +52,6 @@ xibir informações dos pets.
 
 ![Captura de tela 2025-01-06 131350](https://github.com/user-attachments/assets/78eb31ab-a930-4dc8-8778-315b5731705e)
 
-
 ##  👤| Telas de perfis 
 
 ![Captura de tela 2025-01-06 131838](https://github.com/user-attachments/assets/c2bc7f94-b94a-4f65-8550-35f8ee1714bf)
