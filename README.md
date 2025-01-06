@@ -45,6 +45,7 @@ xibir informações dos pets.
 
 ##  📱| Home, e telas principais 
 
+![Captura de tela 2025-01-06 130724](https://github.com/user-attachments/assets/df689bb5-25ee-4108-b7ce-8e8c8e8cd096)
 
 
 ##  📨| Telas Adicionar lembretes 
