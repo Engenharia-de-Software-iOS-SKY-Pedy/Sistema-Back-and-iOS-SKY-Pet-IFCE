@@ -40,6 +40,7 @@ xibir informações dos pets.
 
 ##  🖥️| Tela de Cadastro do app 
 
+![Captura de tela 2025-01-06 130211](https://github.com/user-attachments/assets/d2ff9c29-d43f-435d-bfab-8993039c6798)
 
 
 ##  📱| Home, e telas principais 
